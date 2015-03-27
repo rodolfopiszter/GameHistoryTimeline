@@ -34,10 +34,10 @@
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [
-            {'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo
+            {'url': 'https://www.youtube.com/watch?v=l9eTOaNFwKQ', 'caption': "Gameplay do Frogger", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
-            {'url': 'demonstration_url', 'caption': "description"}
+            {'url': "http://www.classicgamesarcade.com/game/21607/frogger.html", 'caption': "Jogo do Frogger"}
         ],
         'references': [
             {'url': 'reference_url1', 'caption': "description"},
